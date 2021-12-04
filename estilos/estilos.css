@@ -1,0 +1,40 @@
+body{
+    background-image: url(fondo.jpg);
+	  background-position: center center;	  
+	  background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+.log{
+    
+background-color:rgba(5, 11, 20, 0.671);
+    color: white;
+    
+    top: 40%;
+    left: 50%;
+    position: absolute;
+    
+    transform: translate(-50%,-50%);
+    padding: 10px 10px;
+    border-radius: 10px;
+   
+}
+.bgnav{
+    background-color:rgba(5, 11, 20, 0.671);
+    color: white;
+    
+}
+.bgbtn{ 
+    color: white;
+    
+    text-align:center;
+    background-color:#154360;
+}
+.txt{
+    background-color:rgba(5, 11, 20, 0.671);
+text-align: center;
+  color: white;
+
+}
